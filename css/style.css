@@ -348,6 +348,36 @@ button {
 .marcoTexto:hover img{
 	mix-blend-mode: darken;
 }
+
+
+.marcoApagado{
+	margin: 40px 10px 40px 10px;
+	padding: 1em;
+	border-radius: 25px;
+	border: 2px solid #dadada;
+	background: #dadada;
+	color: #444444;
+}
+
+.marcoApagado h2{
+	color: #fff;
+}
+
+.marcoApagado h3{
+	color: #fff;
+	opacity: 0.9;
+	font-weight: 600;
+}
+
+.marcoApagado h5{
+	color: #fff;
+	opacity: 0.9;
+	font-weight: 600;
+}
+
+
+
+
 .marco{
 	border:2px solid #ffcc00;
 	padding-top: 30px;
